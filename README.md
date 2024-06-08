@@ -1,1 +1,1 @@
-# statistics-for-data-science
+# statistics
