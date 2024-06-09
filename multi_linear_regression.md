@@ -75,7 +75,7 @@ np.dot(np.dot(np.linalg.inv(np.dot(X.transpose(), X)), X.transpose()), y)
 ```
 선형대수로 도출한 계수와 OLS로 도출한 계수가 같음을 확인할 수 있다.
 
-#### Ref
-https://bioinformaticsandme.tistory.com/290
-https://bkshin.tistory.com/entry/DATA-18
+#### 레퍼런스
+
+https://bioinformaticsandme.tistory.com/290 와 https://bkshin.tistory.com/entry/DATA-18 를 정리한 글입니다.
 
