@@ -65,3 +65,8 @@ Q. 소득에 따른 신용카드 사용량을 알아보기 위하여 무작위�
 - 95% 신뢰구간이므로 a/2 = 0.025이고 자유도는 5-2=3이다.
 
 <img width="382" alt="image" src="https://github.com/eileenjang/statistics/assets/82510378/3473e8fa-fef4-4141-95d7-5fd953277343">
+
+#### 레퍼런스
+
+https://math100.tistory.com 의 회귀분석 카테고리를 정리한 글입니다.
+
