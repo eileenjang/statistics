@@ -74,3 +74,8 @@ np.dot(np.dot(np.linalg.inv(np.dot(X.transpose(), X)), X.transpose()), y)
 >> array([10072.10704671,  7345.3917137 , -2925.80632467,   345.91101884])
 ```
 선형대수로 도출한 계수와 OLS로 도출한 계수가 같음을 확인할 수 있다.
+
+#### Ref
+https://bioinformaticsandme.tistory.com/290
+https://bkshin.tistory.com/entry/DATA-18
+
